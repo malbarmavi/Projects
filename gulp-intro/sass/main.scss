@@ -1,0 +1,13 @@
+
+$front-color:#123;
+$back-color:#123;
+body { 
+
+    div{
+        color:$front-color;
+        background-color: $back-color;
+        border-radius:2px;
+        transition:  all 0.5s ease-in-out;
+    }
+
+}
